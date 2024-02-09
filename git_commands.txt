@@ -9,6 +9,12 @@ git init
 git add .
 git  remote add origin “https://github.com/sreerag73/git_commands.git”
 git commit -m “commit label”
-git push origin master
+git push origin main
+
+from second commit
+
+git add .
+git commit -m "commit label"
+git pust
 
 
