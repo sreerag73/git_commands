@@ -1,0 +1,14 @@
+git_commands
+
+
+git config —global user.name “username”
+git config —global user.email “email”
+ 
+
+git init
+git add .
+git  remote add origin “https://github.com/sreerag73/git_commands.git”
+git commit -m “commit label”
+git push origin master
+
+
